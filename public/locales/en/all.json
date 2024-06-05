@@ -23,5 +23,22 @@
   "500": {
     "title": "System Error",
     "description": "Description about system error"
+  },
+  "loginPage": {
+    "login": "Login",
+    "emailAddress": "Email address",
+    "enterYourEmailAddress": "Enter your email address",
+    "password": "Password",
+    "enterYourPassword": "Enter your password",
+    "dontHaveAnAccount": "Don’t have an account?",
+    "register": "Register"
+  },
+  "button": {
+    "login": "Login",
+    "register": "Register"
+  },
+  "input": {
+    "email": "Email address",
+    "password": "Password"
   }
 }
